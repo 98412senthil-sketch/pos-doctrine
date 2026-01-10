@@ -3,3 +3,10 @@ description: Sovereign Decision Intelligence Architecture
 theme: minima
 markdown: kramdown
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: /assets/style.css
+
+

@@ -1,0 +1,28 @@
+body {
+  background: #0f172a;
+  color: #e5e7eb;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+a { color: #60a5fa; }
+a:hover { color: #93c5fd; }
+
+h1, h2, h3 {
+  color: #f8fafc;
+  letter-spacing: 0.04em;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+th, td {
+  border: 1px solid #334155;
+  padding: 0.7rem;
+}
+
+th { background: #020617; }
+td { background: #020617; }
+ 
