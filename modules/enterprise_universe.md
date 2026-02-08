@@ -1,6 +1,8 @@
 # Enterprise Universe
 **The Living Reality Layer of POS**
 
+This module represents a simulated enterprise reality used for structural and governance research, not a live operational system.
+
 ## What This Module Is
 
 The **Enterprise Universe** is a living economic civilization.
