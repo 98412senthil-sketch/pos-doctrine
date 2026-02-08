@@ -41,3 +41,20 @@ Only components that demonstrate long-term stability may be promoted into:
 - POS Architecture
 - POS Doctrine
 - POS Constitution
+
+---
+
+## Reference Implementation
+
+A working reference implementation of selected POS modules is available as an independent research repository:
+
+→ https://github.com/98412senthil-sketch/enterprise-universe
+
+This implementation:
+- Validates architectural concepts
+- Demonstrates simulation and governance mechanics
+- Is not a production system
+- Does not represent the full POS doctrine
+
+The repository is provided for research and exploration purposes only.
+
