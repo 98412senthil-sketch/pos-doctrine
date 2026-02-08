@@ -46,16 +46,31 @@ Only components that demonstrate long-term stability may be promoted into:
 
 ## Reference Implementation
 
-A working reference implementation of selected POS modules is available as an independent research repository:
+A reference implementation of selected POS modules is available as an independent research repository:
 
-→ [https://github.com/98412senthil-sketch/enterprise-universe](https://github.com/98412senthil-sketch/enterprise-universe)
+→ [Enterprise Universe – Reference Implementation](https://github.com/98412senthil-sketch/enterprise-universe)
 
+This repository:
+- Serves as an executable interpretation of selected POS concepts
+- Demonstrates simulation, regime discovery, drift monitoring, and governance mechanics
+- Is exploratory and research-oriented
+- Does not represent the full POS doctrine or a production system
 
-This implementation:
-- Validates architectural concepts
-- Demonstrates simulation and governance mechanics
-- Is not a production system
-- Does not represent the full POS doctrine
+POS doctrine governs implementation — not the reverse.
 
-The repository is provided for research and exploration purposes only.
+---
+
+## Illustrative Visuals
+
+Illustrative snapshots generated from the reference implementation are available here:
+
+→ [Enterprise Universe Simulation Snapshots](https://github.com/98412senthil-sketch/enterprise-universe/tree/main/snapshots)
+
+These visuals:
+- Are generated from synthetic data
+- Are scenario-specific and non-exhaustive
+- Exist solely to build intuition around POS concepts
+
+They do not constitute benchmarks, validation results, or empirical proof.
+
 
