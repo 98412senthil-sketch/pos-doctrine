@@ -9,7 +9,7 @@ All AI outputs are treated as belief distributions, not facts.
 All governance is applied to latent regimes, not individuals.
 
 ## Article III — Collapse Physics
-All enterprises are governed by Structural Instability Index (SII) and collapse distance geometry.
+All enterprises are governed by Structural Instability Index (SII) and collapse-distance geometry.
 
 ## Article IV — Decision Sovereignty
 No decision is automated without explicit sovereign human ownership.
