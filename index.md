@@ -52,6 +52,8 @@ It is governance infrastructure.**
 
 The POS White Paper is an approved SSRN preprint and is publicly available:  
 → [View on SSRN (Approved Preprint)](https://papers.ssrn.com/abstract=6054955)
+This work is maintained independently and reflects the author's research views.
+
 
 ---
 
