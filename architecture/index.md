@@ -5,8 +5,8 @@ POS governs living enterprises through a layered sovereign architecture.
 ## POS Stack
 
 ┌──────────────────────────────────────────────┐  
-│ Executive Cognitive Control Plane |             
-│ (Situational Awareness & Governance)            
+│ Executive Cognitive Control Plane            |             
+│ (Situational Awareness & Governance)         |            
 └──────────────────────────────────────────────┘  
 ┌──────────────────────────────────────────────┐  
 │ Decision Ledger & Audit Layer                 │  
