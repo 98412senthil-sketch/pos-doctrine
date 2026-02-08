@@ -1,6 +1,8 @@
 ## Decision Governor
 **Machine-Executable Sovereign Decision Law**
 
+The Decision Governor constrains permissible actions; final authority remains with humans.
+
 ## What This Module Is
 
 The Decision Governor converts structural risk into **formal decision law.**
