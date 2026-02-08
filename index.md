@@ -47,3 +47,8 @@ POS makes enterprise reality **visible, governable, and sovereign.**
 
 > **POS is not software.  
 It is governance infrastructure.**
+
+**Publication Status**
+
+The POS White Paper is an approved SSRN preprint and is publicly available:  
+https://papers.ssrn.com/abstract=6054955
