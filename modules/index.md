@@ -48,7 +48,8 @@ Only components that demonstrate long-term stability may be promoted into:
 
 A working reference implementation of selected POS modules is available as an independent research repository:
 
-→ https://github.com/98412senthil-sketch/enterprise-universe
+→ [https://github.com/98412senthil-sketch/enterprise-universe](https://github.com/98412senthil-sketch/enterprise-universe)
+
 
 This implementation:
 - Validates architectural concepts
