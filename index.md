@@ -20,7 +20,7 @@ It is a civilization-grade operating system for governing enterprise reality und
 | [White Paper](whitepaper/) | Foundational doctrine |
 | [POS Constitution](constitution/) | Sovereign law |
 | [Architecture](architecture/) | System anatomy |
-| [Modules](modules/) | Engine components |
+| [Modules](modules/) | Core engines and implementation layers |
 
 ---
 
