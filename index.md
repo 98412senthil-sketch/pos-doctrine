@@ -45,7 +45,7 @@ POS makes enterprise reality **visible, governable, and sovereign.**
 
 ---
 
-> **POS is not software.  
+**POS is not software.  
 It is governance infrastructure.**
 
 **Publication Status**
