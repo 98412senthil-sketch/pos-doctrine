@@ -4,28 +4,40 @@ This section contains research modules and evolving system components related to
 
 Modules represent **exploratory, experimental, or implementation-level artifacts** that support the POS architecture but are not part of the canonical doctrine.
 
-They exist to:
-- Test architectural hypotheses
-- Explore implementation strategies
-- Validate governance mechanics
-- Incubate future POS capabilities
+They are intentionally non-canonical and subject to revision.
 
 ---
 
-### Governance Status
+## Available Modules
 
-Modules are intentionally:
-- Non-canonical
-- Subject to revision
+- **[Enterprise Universe](/pos-doctrine/modules/enterprise_universe.html)**  
+  Living economic reality simulator representing markets, customers, and operations.
+
+- **[Latent Regime Engine](/pos-doctrine/modules/regime_engine.html)**  
+  Discovers and maintains latent structural regimes governing enterprise behavior.
+
+- **[Drift Engine](/pos-doctrine/modules/drift_engine.html)**  
+  Detects regime migration, structural drift, and early warning signals.
+
+- **[Structural Instability Index (SII) Engine](/pos-doctrine/modules/sii_engine.html)**  
+  Quantifies distance-to-collapse and systemic instability dynamics.
+
+- **[Decision Governor](/pos-doctrine/modules/decision_governor.html)**  
+  Enforces lawful, forbidden, and escalation-bound decision constraints.
+
+- **[Executive Cognitive Control](/pos-doctrine/modules/executive_control.html)**  
+  Provides executive-level situational awareness and governance oversight.
+
+---
+
+## Governance Status
+
+Modules are:
+- Experimental or evolving
 - Not governed by the POS Constitution
+- Subject to restructuring or removal
 
-Only components that demonstrate long-term stability and conceptual clarity may be promoted into:
+Only components that demonstrate long-term stability may be promoted into:
 - POS Architecture
 - POS Doctrine
 - POS Constitution
-
----
-
-### Reader Guidance
-
-Readers should treat this section as a **research laboratory**, not a finalized specification.
