@@ -2,10 +2,11 @@
 layout: default
 ---
 
-# Probabilistic Operating System (POS)
+## What POS Is
 
-### Sovereign Decision Intelligence Architecture  
-**Governing Living Enterprises Under Uncertainty**
+POS is a civilization-grade operating system for governing enterprise reality under uncertainty, collapse risk, and regime migration.
+
+It treats enterprises as living systems — not static datasets — and governs AI as a belief-driven decision instrument under human sovereignty.
 
 POS is not an analytics framework.  
 It is a civilization-grade operating system for governing enterprise reality under uncertainty, collapse risk, and regime migration.
