@@ -1,8 +1,8 @@
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
+title: probabilistic Operating Systems (POS)
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+show_downloads: false
 
 
 
